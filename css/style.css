@@ -236,7 +236,23 @@
 }
 
 .page-header {
-    background: linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url(../img/4.png) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url(../img/jab.jpg) center center no-repeat;
+    background-size: cover;
+}
+.page-headersu {
+    background: linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url(../img/subg.webp) center center no-repeat;
+    background-size: cover;
+}
+.page-headero {
+    background: linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url(../img/ocean-blog.webp) center center no-repeat;
+    background-size: cover;
+}
+.page-headerwe{
+    background: linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url(../img/web\ b.jpg) center center no-repeat;
+    background-size: cover;
+}
+.page-headerfr {
+    background: linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url(../img/frb.webp) center center no-repeat;
     background-size: cover;
 }
 
